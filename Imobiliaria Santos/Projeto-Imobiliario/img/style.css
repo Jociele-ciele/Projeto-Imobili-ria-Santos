@@ -1,0 +1,156 @@
+body {
+    margin: 0px auto;
+    background-color:#f2f2f2;
+    font-family:Tahoma;
+    text-align:center;
+}
+.secao {
+    margin: 0px auto;
+    text-align: center;
+    background-color: #afddfb;
+    padding: 20px;  
+}
+.logo-imob {
+    width:150px;
+}
+.secao p{
+   text-align: center;
+}
+.secao a {
+    margin-top:15px;
+    margin-bottom:25px;
+    text-align: center;
+    font-size: 18px;
+    color: #0c0a0a;
+    text-decoration: none;
+    border-bottom: 2px solid #1d1d1d;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.banner {
+    margin-top: 50px;
+    text-align:center;
+}
+.secao-destaque h1 {
+    font-size: 30px;
+    color: #1d1d1d;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.secao-destaque h2 {
+    font-size: 22px;
+    color: #1c81c0;
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: normal;
+}
+.imovel-assinatura {
+    width: 450px;
+    background-color: #ffffff;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+p {
+    font-size: 20px;
+    text-align:justify;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+.texto-azul {
+    color: #1c81c0;
+    font-weight: bold;
+    text-align: justify;
+}
+.serviços {
+    background-color: #1d80c1;
+    padding: 20px;
+    text-align: center;
+}
+h3 {
+    font-size: 24px;
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.serviços p {
+    font-size: 22px;
+    color: #ffffff;
+    line-height: 42px;
+    text-align: center;
+    width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.texto-amarelo{
+    color: #f9c23c;
+    font-weight: bold;
+    text-align: center;
+}
+.serviços ul{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 135px;
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+.corretores{
+    padding: 20px;
+    text-align: center;
+}
+.corretores h3{
+    font-size: 24px;
+    color: #1d80c1;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.corretores img {
+    width: 450px;
+    background-color: #ffffff;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.corretores a {
+    margin-right: 10px;
+    margin-left: 10px;
+    text-decoration: none;
+    color: #260362;
+    border-bottom: 2px solid #260362;
+}
+.contato{
+    padding: 20px;
+    text-align: center;
+    background-color: #1d80c1;
+}
+.contato p{
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.contato ul li {
+    list-style-type: none;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 250px;
+}
+.contato a {
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding:5px;
+    border-radius: 5px;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 10px;
+    text-decoration: underline;
+} 
+
+
